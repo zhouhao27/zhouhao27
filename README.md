@@ -1,4 +1,4 @@
 # My personal blog 
 
-Powered by <http://jekyllbootstrap.com>(Jekyll-Bootstrap)
+Powered by <http://jekyllbootstrap.com>
 
